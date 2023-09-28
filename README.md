@@ -1,5 +1,5 @@
 # TravelingSalesmanProblemWebApp
-This is a simple web application created with ASP.NET Core and React.js, used for solving a Traveling Salesman Problem.
+This is a simple web application, which is created with ASP.NET Core and React.js, that employs a genetic evolutive algorithm to solve the Traveling Salesman Problem.
 
 It provides to the user the possibility of uploading a text file, which contains a set of coordinates, along with some parameters that represent the thoroughness of the search for an optimal answer.
 
