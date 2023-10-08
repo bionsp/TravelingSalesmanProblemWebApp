@@ -3,7 +3,7 @@ This is a simple web application, which is created with ASP.NET Core and React.j
 
 It provides to the user the possibility of uploading a text file, which contains a set of coordinates, along with some parameters that represent the thoroughness of the search for an optimal answer.
 
-This is the first version of the project. For the moment, the application uses some extremely simple designs (as an example example: the way this application keeps track of who is creating a request), but these will be improved in the future.
+This is the first version of the project. For the moment, the application uses some extremely simple designs (as an example: the way this application keeps track of who is creating a request), but these will be improved in the future.
 
 Some future goals for this application:
 
